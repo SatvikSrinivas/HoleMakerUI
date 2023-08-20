@@ -16,6 +16,7 @@ List of Commands
 - d = Dimensions (on/off)
 - f = FlipOrientation (ArcTool)
 - l = LineTool
+- q = Quit (does not update design, see 'u')
 - r = ResetCanvas
 - s = SnapMode
 - u = UpdateDesignFile
