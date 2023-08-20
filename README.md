@@ -14,11 +14,11 @@ List of Commands
 - a = ArcTool
 - c = CreateMode
 - d = Dimensions (on/off)
-- f = FlipOrientation (ArcTool)
+- f = FlipOrientation (flips arc orientation while using ArcTool)
 - l = LineTool
 - q = Quit (does not update design, see 'u')
 - r = ResetCanvas
 - s = SnapMode
 - u = UpdateDesignFile
 - x = RemoveTool
-- z = Undo
+- z = Undo (removes the most recently added hole)
