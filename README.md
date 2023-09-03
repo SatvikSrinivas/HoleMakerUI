@@ -22,3 +22,7 @@ List of Commands
 - u = UpdateDesignFile
 - x = RemoveTool
 - z = Undo (removes the most recently added hole)
+
+![LineTool](https://aranceei.sirv.com/Images/HoleMakerUI1.png)
+![ArcTool](https://aranceei.sirv.com/Images/HoleMakerUI2.png)
+![RemoveTool](https://aranceei.sirv.com/Images/HoleMakerUI3.png)
